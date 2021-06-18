@@ -17,6 +17,9 @@ import java.util.Set;
 // https://docs.spring.io/spring-data/jdbc/docs/2.2.1/reference/html/#jdbc.domain-driven-design
 
 // Entity = сущность
+// Repository = репозиторий
+// Aggregate = агрегация
+// Aggregate root = корень агрегации
 
 @Getter // Lombok генерирует геттеры
 @Setter // Lombok генерирует сеттеры
